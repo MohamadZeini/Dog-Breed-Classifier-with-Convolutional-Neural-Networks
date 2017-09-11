@@ -5,11 +5,13 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 
-## Project: Write an Algorithm for a Dog Identification App
+# Project: Write an Algorithm for a Dog Identification App
 
-### Convolutional Neural Networks
+## Convolutional Neural Networks
+
 
 To see the project refer to dog_app.ipynb file.
+
 
 ## Project Instructions
 
