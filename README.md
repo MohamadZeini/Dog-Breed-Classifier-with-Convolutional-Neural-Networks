@@ -4,14 +4,15 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
-
 # Project: Write an Algorithm for a Dog Identification App
 
 ## Convolutional Neural Networks
 
-
 To see the project refer to `dog_app.ipynb` file.
 
+## Overview 
+
+In this Convolutional Neural Networks (CNN) project, we will build a pipeline to process real-world, user-supplied images. Given an image of a dog, our algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
 ## Project Instructions
 
