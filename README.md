@@ -51,3 +51,8 @@ In this Convolutional Neural Networks (CNN) project, we will build a pipeline to
 		jupyter notebook dog_app.ipynb
 	```
 
+### Files
+
+1) dog_app.ipynb
+2) extract_bottleneck_features.py
+
