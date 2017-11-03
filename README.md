@@ -6,7 +6,7 @@
 
 # Project: Write an Algorithm for a Dog Identification App
 
-## Convolutional Neural Networks
+## Deep Learning - Convolutional Neural Networks
 
 To see the project refer to `dog_app.ipynb` file.
 
